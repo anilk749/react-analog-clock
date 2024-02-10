@@ -6,7 +6,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 ## Installation
 
 1. Clone the repository
-   git clone [https://github.com/your-username/react-clock.git](https://github.com/anilk749/react-analog-clock.git)
+   git clone https://github.com/anilk749/react-analog-clock.git
 
 2. Navigate to the project directory: `cd react-analog-clock`
 
